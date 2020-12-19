@@ -1,1 +1,3 @@
-# Arduino_Projects
+# Arduino Projects
+
+Some simple Arduino Projects
