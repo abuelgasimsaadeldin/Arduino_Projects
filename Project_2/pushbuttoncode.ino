@@ -1,5 +1,5 @@
 /******************** 
-Project 1 - Blinking LED 
+Project 2 - Controlling LED using a Push Button
 
 * Please refer to the CircuitDiagram.md file first before proceeding
 
