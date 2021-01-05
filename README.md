@@ -1,4 +1,4 @@
-# Arduino Projects
+# Arduino Projects for Beginners
 
 Some simple Arduino Projects
 
